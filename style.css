@@ -1,0 +1,102 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(farm.jpeg);
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+}
+
+
+.topPage{
+
+    display: inline-block;
+    margin-left: auto;
+    margin-right:auto;
+
+}
+
+h1 {
+
+    color: red;
+    padding-left: 200px;
+
+}
+
+h3 {
+
+    font-style: italic;
+    margin-left: 10%;
+
+
+}
+
+p {
+
+    font-size: 36px;
+    margin-left: 10%;
+    padding-right: 10%;
+
+
+}
+
+img {
+
+
+    border-radius: 90px;
+    margin-left: 150px;
+
+
+}
+
+a {
+
+    margin-left: 10%;
+    color: white;
+    font-size: 20px;
+    transition: 0.4s;
+
+
+}
+
+a:hover {
+
+    font-size: 30px;
+    color: rgb(0, 206, 0);
+
+}
+
+.websites {
+
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 40px;
+    background-color: rgba(0,0,0,0.6)
+
+
+}
+
+.websiteHead {
+
+
+    color: white;
+
+}
+
+.youtubeHead {
+
+    color: white;
+    font-size: 40px;
+
+}
+
+iframe {
+
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-bottom: 3%;
+
+
+}
